@@ -1,0 +1,104 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: -webkit-fill-available;
+    margin: 0px;
+}
+
+.container-new{
+    height: -webkit-fill-available;
+    width: 100%;
+}
+
+.container-new *{
+    float: left;
+}
+
+.header{
+    padding: 10px;
+    background-image: linear-gradient(150deg, #6bce58, #38f14d);
+    box-shadow: 0px 2px #1d5830;
+}
+
+
+.header .logo{
+    width: 50px;
+    height: 50px;
+}
+
+.header .title{
+    font-size: 24px;
+    padding: 5px;
+    color: rgb(255 255 255);
+    font-weight: bold;
+    text-shadow: 0px 1px #4d893f;
+}
+.content{
+    padding: 2%;
+}
+
+.produk{
+    text-align: center;
+    padding: 15px;
+    background-image: radial-gradient(125px,#fcfcfc, #89fead9c);
+    border: 1px solid #ffded3;
+    border-radius: 8px;
+    width: 21%;
+    margin: 1%;
+    
+}
+
+.produk *{
+    margin-top : 10px;
+}
+
+.produk img{
+    width: 100%;
+}
+
+.produk .title{
+    width: 100%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.produk .harga{
+    width: 100%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.produk .deskripsi{
+    width: 100%;
+    font-size: 15px;
+}
+
+.produk .action{
+    width: 100%;
+    
+}
+
+.produk .action button{
+    width: 100%;
+
+}
+
+.footer{
+    width: 100%;
+    padding: 5px;
+    position: absolute;
+    bottom : 0;
+}
+
+.modal-dialog{
+    width: 100%;
+    max-width: 90%;
+}
+
+.form-group{
+    float: left;
+    margin-top : 10px;
+}

@@ -1,0 +1,13 @@
+CRON JOB : 2016-07-20 23:56:09
+opening dir : /var/www/html/dev/saiba/uploads/03/2016/bckfiles 
+parsing : DK032030100019020160719.bck 
+Error Query <br/>
+parsing : DK032030200029088160718.bck 
+Error Query <br/>
+parsing : DK032030300039015160712.bck 
+Error Query <br/>
+parsing : DK032030400049031160720.bck 
+Error Query <br/>
+parsing : DK032030500059030160720.bck 
+Error Query <br/>
+parsing : DK032030600069020160720.bck 
